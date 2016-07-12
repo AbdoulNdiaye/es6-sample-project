@@ -1,0 +1,9 @@
+{
+  "local": {
+    "application" : {
+      "scheme": "http",
+      "domain": "localhost",
+      "port": 3000
+    }
+  }
+}
